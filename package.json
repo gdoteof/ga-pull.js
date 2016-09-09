@@ -1,0 +1,11 @@
+{
+  "name": "ga-pull.js",
+  "version": "0.1.0",
+  "description": "make google analytics pulls using the batch api without batching",
+  "main": "ga-pull.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geoff golder",
+  "license": "ISC"
+}
